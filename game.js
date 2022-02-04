@@ -44,7 +44,7 @@ $(".btn").click(function() {
         //5. Call nextSequence() after a 1000 millisecond delay.
         setTimeout(function () {
           nextSequence();
-        }, 10000);
+        }, 1000);
       }
     } else {
 
